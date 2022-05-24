@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 872,
+      "category": "cats",
+      "title": "secret secret",
+      "description": "cool person cause im dope.",
+      "location": "your basement",
+      "date": "July 21, 2023",
+      "time": "11:30",
+      "organizer": "Meme lords"
     }
   ]
 }
